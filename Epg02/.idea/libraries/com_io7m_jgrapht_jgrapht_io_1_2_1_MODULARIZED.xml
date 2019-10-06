@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.io7m.jgrapht:jgrapht-io:1.2.1-MODULARIZED" type="repository">
+    <properties maven-id="com.io7m.jgrapht:jgrapht-io:1.2.1-MODULARIZED" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/io7m/jgrapht/jgrapht-io/1.2.1-MODULARIZED/jgrapht-io-1.2.1-MODULARIZED.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/io7m/jgrapht/jgrapht-core/1.2.1-MODULARIZED/jgrapht-core-1.2.1-MODULARIZED.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.7/antlr4-runtime-4.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
